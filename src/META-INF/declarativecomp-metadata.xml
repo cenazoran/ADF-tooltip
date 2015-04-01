@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<declarativeCompDefs xmlns="http://xmlns.oracle.com/adf/faces/rich/declarativecomp">
+  <declarativecomp-jsp-ui-def>/com/component/tooltip/ToolTipComp.jspx</declarativecomp-jsp-ui-def>
+  <declarativecomp-taglib>
+    <taglib-name>TooltipComponentLib</taglib-name>
+    <taglib-uri>http://www.logan.com/component/tooltip</taglib-uri>
+    <taglib-prefix>tool</taglib-prefix>
+  </declarativecomp-taglib>
+</declarativeCompDefs>
